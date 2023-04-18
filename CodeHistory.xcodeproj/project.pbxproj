@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6EE7DCC729EDEF480044CC41 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EE7DCC629EDEF480044CC41 /* Question.swift */; };
+		6EE7DCCB29EDF1760044CC41 /* ChoiceTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EE7DCCA29EDF1760044CC41 /* ChoiceTextView.swift */; };
 		6EFC0DDF29EDE836007BC709 /* CodeHistoryApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EFC0DDE29EDE836007BC709 /* CodeHistoryApp.swift */; };
 		6EFC0DE129EDE836007BC709 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EFC0DE029EDE836007BC709 /* ContentView.swift */; };
 		6EFC0DE329EDE838007BC709 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6EFC0DE229EDE838007BC709 /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		6EE7DCC629EDEF480044CC41 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		6EE7DCCA29EDF1760044CC41 /* ChoiceTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChoiceTextView.swift; sourceTree = "<group>"; };
 		6EFC0DDB29EDE836007BC709 /* CodeHistory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CodeHistory.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EFC0DDE29EDE836007BC709 /* CodeHistoryApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeHistoryApp.swift; sourceTree = "<group>"; };
 		6EFC0DE029EDE836007BC709 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				6EFC0DDE29EDE836007BC709 /* CodeHistoryApp.swift */,
 				6EFC0DE029EDE836007BC709 /* ContentView.swift */,
 				6EE7DCC629EDEF480044CC41 /* Question.swift */,
+				6EE7DCCA29EDF1760044CC41 /* ChoiceTextView.swift */,
 				6EFC0DE229EDE838007BC709 /* Assets.xcassets */,
 				6EFC0DE429EDE838007BC709 /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				6EE7DCC729EDEF480044CC41 /* Question.swift in Sources */,
 				6EFC0DE129EDE836007BC709 /* ContentView.swift in Sources */,
+				6EE7DCCB29EDF1760044CC41 /* ChoiceTextView.swift in Sources */,
 				6EFC0DDF29EDE836007BC709 /* CodeHistoryApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
